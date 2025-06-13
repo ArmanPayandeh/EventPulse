@@ -1,3 +1,4 @@
+'use client';
 import { Heading } from "@/components/heading"
 import { MaxWidthWrapper } from "@/components/max-width-wrapper"
 import { Check, Star } from "lucide-react"
